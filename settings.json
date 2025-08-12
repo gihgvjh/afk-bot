@@ -6,8 +6,9 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "sealingserver-Ij3U.aternos.me", 
+    "port": 54935
+,   
     "version": "1.12.1"   
   },
 
